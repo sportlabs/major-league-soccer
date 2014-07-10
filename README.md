@@ -1,4 +1,4 @@
-major-league-soccer.ruby
-========================
+# Major League Soccer (MLS) Scripts
 
-scripts for major league soccer (MLS) 
+Scripts for major league soccer (MLS)
+
