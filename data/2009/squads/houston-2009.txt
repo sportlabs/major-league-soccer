@@ -1,0 +1,72 @@
+(5) G Danny Cruz
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(30) G Tyler Deric
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(1) G Tally Hall
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(18) G Pat Onstad
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(24) D Wade Barrett
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(32) D Bobby Boswell
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(4) D Ryan Cochrane
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(31) D Andrew Hainault
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(2) D Eddie Robinson
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(16) D Craig Waibel
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(26) M Corey Ashe
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(20) M Geoff Cameron
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(17) M Mike Chabala
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(13) M Ricardo Clark
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(11) M Brad Davis
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(--) M Kevin Harmse
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(19) M John Michael Hayden
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(8) M Richard Mulrooney
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(6) M Erik Ustruck
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(15) M Cameron Weaver
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(9) F Brian Mullan
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(23) F Dominic Oduro
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(25) F Brian Ching
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(7) F Luis Angel Cortes Landin
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+

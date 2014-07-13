@@ -1,0 +1,78 @@
+(30) G Robby Fulton
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(18) G Pat Onstad
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(17) D Chris Aloisi
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(24) D Wade Barrett
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(4) D Danny Califf
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(5) D Ryan Cochrane
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(3) D Kevin Goldthwaite
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(8) D Brett Rodriguez
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(34) D James Twellman
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(12) M Mark Chung
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(13) M Ricardo Clark
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(11) M Brad Davis
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(21) M Tighe Dombrowski
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(26) M Kelly Gray
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(32) M Aaron Lanes
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(27) M Danny O'Rourke
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(2) M Eddie Robinson
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(7) M Ian Russell
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(16) M Craig Waibel
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(29) M Chris Wondolowski
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(20) F Ronald Cerritos
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(25) F Brian Ching
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(14) F Dwayne De Rosario
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(15) F Alejandro Moreno
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(9) F Brian Mullan
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(33) F Julian Nash
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+

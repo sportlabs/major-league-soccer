@@ -1,0 +1,84 @@
+(1) G Tony Caig
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(18) G Pat Onstad
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(30) G Corbin Waller
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(3) - Johnny Alcaraz
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(24) D Wade Barrett
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(32) D Bobby Boswell
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(11) D Brad Davis
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(4) D Patrick Ianni
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(2) D Eddie Robinson
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(16) D Craig Waibel
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(23) D Stephen Wondolowski
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(26) M Corey Ashe
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(20) M Geoff Cameron
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(17) M Mike Chabala
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(13) M Ricardo Clark
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(14) M Dwayne De Rosario
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(21) M Nick Hatzke
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(19) M John Michael Hayden
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(22) M Stuart Holden
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(8) M Richard Mulrooney
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(6) M Erik Ustruck
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(5) F Kyle Brown
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(10) F Franco Caraccio
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(10) F Kei Kamara
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(9) F Brian Mullan
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(7) F Chris Wondolowski
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(25) F Brian Ching
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(27) F Nate Jaqua
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+

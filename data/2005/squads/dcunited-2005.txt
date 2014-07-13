@@ -1,0 +1,75 @@
+(1) G Troy Perkins
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(18) G Nick Rimando
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(30) G Andrew Weber
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(32) D Bobby Boswell
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(5) D Facundo Erpen
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(4) D Brandon Prideaux
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(2) D David Stokes
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(27) D John Wilson
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(16) M Brian Carroll
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(10) M Christian Gomez
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(17) M Joshua Gros
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(28) M Shawn Kuykendall
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(26) M Bryan Namoff
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(14) M Ben Olsen
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(19) M Clyde Simms
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(6) M Nick Van Sicklen
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(23) M Jamil Walker
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(31) M Stephen deRoux
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(9) F Freddy Adu
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(11) F Alecko Eskandarian
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(7) F Lucio Filomeno
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(21) F Dema Kovalenko
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(99) F Jaime Moreno
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(29) F Matt Nickell
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(25) F Santino Quaranta
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+

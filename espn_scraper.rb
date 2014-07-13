@@ -59,7 +59,10 @@ class ESPNScraper
     clubs_l.each do | club |
       club_name = club.content.to_s.strip
       @logger.info("Parsing roster data for " + club_name)
-      squad_url = @base + club.attributes["href"].value.to_s.sub(/index/,'squad') + "?season=#{year}"
+
+      # Full URL comes from espn page now?
+      #squad_url = @base + club.attributes["href"].value.to_s.sub(/index/,'squad') + "?season=#{year}"
+      squad_url = club.attributes["href"].value.to_s.sub(/index/,'squad') + "?season=#{year}"
       @logger.debug("[scrape]   URL: " + squad_url)
       roster = scrape_team_roster(squad_url, year)
 
@@ -118,6 +121,7 @@ class ESPNScraper
       name = ""
       number = -1
       pos = "NA"
+      stats = "# "
 
       player.children.each do |attr|
         if (attr.attributes["class"])
@@ -131,6 +135,18 @@ class ESPNScraper
             when "no"
               number = attr.content.strip
               @logger.debug("[generate_fixture] Parsing Number: " + number.to_s)
+            else
+              # Treat anything else as a stat
+              stat = attr.attributes["class"].value.to_s.strip
+              val = attr.content.strip
+
+              # Sanitize unknown stat values -- assume a decimal number
+              if (val =~ /\D/)
+                val = "0"
+              end
+
+              stats += stat + ": " + val + " "
+              @logger.debug("[generate_fixture] Stat: " + attr.attributes["class"].value.to_s + " Val: " + attr.content.strip)
           end
         end # if
       end # player.children.each
@@ -139,6 +155,7 @@ class ESPNScraper
       if (name != "" and number != -1)
         @logger.debug("[generate_fixture] Adding Player: (#{number}) #{pos} #{name}")
         ret += "(#{number}) #{pos} #{name}\n"
+        ret += stats + "\n\n"
       end
     end # roster.each
 

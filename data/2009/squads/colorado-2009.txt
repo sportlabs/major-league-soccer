@@ -1,0 +1,63 @@
+(31) G Steward Ceus
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(18) G Matt Pickens
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(--) - Andre Akpan
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(21) D Julien Baudet
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(6) D Greg Dalby
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(26) D Michael Holody
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(27) D Kosuke Kimura
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(3) D Drew Moor
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(29) D Scott Palguta
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(13) D Ross Schunk
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(20) D Jamie Smith
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(35) D Rob Valentino
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(8) M Mehdi Ballouchy
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(5) M Ty Harden
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(22) M Nick LaBrocca
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(25) M Pablo Mastroeni
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(23) F Colin Clark
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(14) F Omar Cummings
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(10) F Facundo Ignacio Diz
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(9) F Conor Casey
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(12) F Pat Noonan
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+

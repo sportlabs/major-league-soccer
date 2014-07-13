@@ -1,20 +1,22 @@
 #require 'FileUtils'
 
 years = (2005..2014)
+debug = ENV['debug'] ? ENV['debug'] : false
+
 
 years.each do |year|
-  directory "#{year}"
+  directory "data/#{year}"
 
-  file "#{year}/squads" => "#{year}" do
-    sh "mkdir -p #{year}/squads/"
-    sh "ruby scripts/mls_scraper.rb -r -y #{year} -o #{year}/squads/ -a teams_us.txt,teams_ca.txt"
+  file "data/#{year}/squads" => "data/#{year}" do
+    sh "mkdir -p data/#{year}/squads/"
+    sh "ruby mls_scraper.rb -r -y #{year} -o data/#{year}/squads/ -a teams_us.txt,teams_ca.txt " + (debug ? "-v" : "")
   end
 
-  file "#{year}/mls.txt" => "#{year}" do
-    sh "ruby scripts/mls_scraper.rb -y #{year} -o #{year}/mls.txt"
+  file "data/#{year}/mls.txt" => "data/#{year}" do
+    sh "ruby mls_scraper.rb -y #{year} -o data/#{year}/mls.txt " + (debug ? "-v" : "")
   end
 
-  file "#{year}/mls.yml" => "#{year}" do
+  file "data/#{year}/mls.yml" => "data/#{year}" do
     yml = "
 # MLS Season #{year}
 
@@ -46,22 +48,22 @@ teams:
 - vancouver
 - montreal
 "
-    File.open("#{year}/mls.yml", 'w') {|file| file.write(yml)}
+    File.open("data/#{year}/mls.yml", 'w') {|file| file.write(yml)}
   end
 end
 
 desc "Generate all historical fixture data"
-task :gen_match_data => years.map { |year| "#{year}/mls.txt"} do
+task :gen_match_data => years.map { |year| "data/#{year}/mls.txt"} do
   p "Generated all fixture data"
 end
 
 desc "Generate a base .yml file for each year.  Might need manual updates"
-task :migrate_yml => years.map {|year| "#{year}/mls.yml"} do
+task :migrate_yml => years.map {|year| "data/#{year}/mls.yml"} do
   p "Generated all yml data"
 end
 
 desc "Generate the squads for each year"
-task :gen_squads => years.map {|year| "#{year}/squads"} do
+task :gen_squads => years.map {|year| "data/#{year}/squads"} do
   p "Generated all squad data"
 end
 
@@ -72,7 +74,7 @@ task :clean_match_data do
 
   if (response =~ /y/i)
     years.each do |year|
-      FileUtils.rm("#{year}/mls.txt")
+      FileUtils.rm("data/#{year}/mls.txt")
     end
   end
 end

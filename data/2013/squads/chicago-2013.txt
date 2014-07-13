@@ -1,0 +1,84 @@
+(25) G Sean Johnson
+# starts: 28 subIns: 0 saves: 94 goalsConceded: 39 foulsCommitted: 2 foulsSuffered: 3 yellowCards: 2 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(1) G Alec Kann
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(70) G Paolo Tornaghi
+# starts: 6 subIns: 0 saves: 12 goalsConceded: 13 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(33) - Juan Anangonó
+# starts: 9 subIns: 4 saves: 0 goalsConceded: 18 foulsCommitted: 23 foulsSuffered: 12 yellowCards: 1 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(6) D Jalil Anibaba
+# starts: 34 subIns: 0 totalGoals: 1 totalShots: 16 shotsOnTarget: 7 goalAssists: 0 foulsCommitted: 15 foulsSuffered: 13 yellowCards: 3 redCards: 0 
+
+(22) D Austin Berry
+# starts: 34 subIns: 0 totalGoals: 1 totalShots: 14 shotsOnTarget: 5 goalAssists: 2 foulsCommitted: 17 foulsSuffered: 16 yellowCards: 2 redCards: 0 
+
+(28) D Shaun Francis
+# starts: 1 subIns: 0 totalGoals: 0 totalShots: 1 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 3 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(3) D Hunter Jumper
+# starts: 2 subIns: 0 totalGoals: 1 totalShots: 2 shotsOnTarget: 1 goalAssists: 1 foulsCommitted: 5 foulsSuffered: 0 yellowCards: 1 redCards: 0 
+
+(18) D Steven Kinney
+# starts: 2 subIns: 0 totalGoals: 0 totalShots: 1 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 2 yellowCards: 0 redCards: 0 
+
+(13) D Gonzalo Segares
+# starts: 32 subIns: 0 totalGoals: 0 totalShots: 12 shotsOnTarget: 3 goalAssists: 1 foulsCommitted: 43 foulsSuffered: 27 yellowCards: 7 redCards: 0 
+
+(4) D Bakary Soumare
+# starts: 25 subIns: 0 totalGoals: 1 totalShots: 6 shotsOnTarget: 2 goalAssists: 0 foulsCommitted: 35 foulsSuffered: 13 yellowCards: 5 redCards: 2 
+
+(5) M Egidio Arévalo Ríos
+# starts: 9 subIns: 0 totalGoals: 0 totalShots: 11 shotsOnTarget: 3 goalAssists: 0 foulsCommitted: 5 foulsSuffered: 15 yellowCards: 0 redCards: 0 
+
+(30) M Yazid Atouba
+# starts: 0 subIns: 3 totalGoals: 0 totalShots: 1 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 3 yellowCards: 0 redCards: 0 
+
+(19) M Corben Bone
+# starts: 0 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(71) M Alex
+# starts: 18 subIns: 12 totalGoals: 1 totalShots: 34 shotsOnTarget: 9 goalAssists: 1 foulsCommitted: 25 foulsSuffered: 29 yellowCards: 2 redCards: 0 
+
+(8) M Dilly Duka
+# starts: 24 subIns: 7 totalGoals: 4 totalShots: 62 shotsOnTarget: 28 goalAssists: 3 foulsCommitted: 39 foulsSuffered: 23 yellowCards: 3 redCards: 0 
+
+(16) M Brendan King
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(20) M Jeff Larentowicz
+# starts: 31 subIns: 1 totalGoals: 2 totalShots: 45 shotsOnTarget: 13 goalAssists: 4 foulsCommitted: 47 foulsSuffered: 30 yellowCards: 6 redCards: 1 
+
+(26) M Joel Lindpere
+# starts: 17 subIns: 8 totalGoals: 2 totalShots: 18 shotsOnTarget: 6 goalAssists: 8 foulsCommitted: 13 foulsSuffered: 17 yellowCards: 2 redCards: 0 
+
+(14) M Patrick Nyarko
+# starts: 24 subIns: 6 totalGoals: 4 totalShots: 40 shotsOnTarget: 16 goalAssists: 4 foulsCommitted: 33 foulsSuffered: 70 yellowCards: 1 redCards: 0 
+
+(11) M Daniel Paladini
+# starts: 7 subIns: 13 totalGoals: 2 totalShots: 12 shotsOnTarget: 6 goalAssists: 2 foulsCommitted: 11 foulsSuffered: 9 yellowCards: 5 redCards: 1 
+
+(12) M Logan Pause
+# starts: 11 subIns: 4 totalGoals: 0 totalShots: 1 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 7 foulsSuffered: 2 yellowCards: 1 redCards: 0 
+
+(27) M Victor Pineda
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(15) M Wells Thompson
+# starts: 6 subIns: 2 totalGoals: 0 totalShots: 6 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 7 foulsSuffered: 11 yellowCards: 1 redCards: 1 
+
+(21) M Michael Videira
+# starts: 1 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(24) F Quincy Amarikwa
+# starts: 0 subIns: 14 totalGoals: 3 totalShots: 12 shotsOnTarget: 7 goalAssists: 0 foulsCommitted: 17 foulsSuffered: 10 yellowCards: 0 redCards: 0 
+
+(17) F Chris Rolfe
+# starts: 26 subIns: 5 totalGoals: 4 totalShots: 69 shotsOnTarget: 19 goalAssists: 1 foulsCommitted: 17 foulsSuffered: 20 yellowCards: 3 redCards: 0 
+
+(29) F Maicon Santos
+# starts: 1 subIns: 14 totalGoals: 2 totalShots: 20 shotsOnTarget: 5 goalAssists: 0 foulsCommitted: 7 foulsSuffered: 7 yellowCards: 1 redCards: 0 
+

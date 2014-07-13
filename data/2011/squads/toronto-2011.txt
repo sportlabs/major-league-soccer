@@ -1,0 +1,108 @@
+(24) G Stefan Frei
+# starts: 27 subIns: 0 saves: 109 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 12 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(30) G Milos Kocic
+# starts: 7 subIns: 1 saves: 27 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(3) D Nana Attakora-Gyan
+# starts: 4 subIns: 2 totalGoals: 0 totalShots: 2 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 4 foulsSuffered: 5 yellowCards: 1 redCards: 0 
+
+(25) D Danleigh Borman
+# starts: 19 subIns: 5 totalGoals: 0 totalShots: 3 shotsOnTarget: 0 goalAssists: 3 foulsCommitted: 15 foulsSuffered: 9 yellowCards: 5 redCards: 0 
+
+(12) D Adrian Cann
+# starts: 12 subIns: 0 totalGoals: 0 totalShots: 3 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 7 foulsSuffered: 3 yellowCards: 0 redCards: 0 
+
+(29) D Kyle Davies
+# starts: 0 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(27) D Richard Eckersley
+# starts: 22 subIns: 1 totalGoals: 0 totalShots: 6 shotsOnTarget: 4 goalAssists: 0 foulsCommitted: 36 foulsSuffered: 31 yellowCards: 6 redCards: 0 
+
+(20) D Ty Harden
+# starts: 24 subIns: 2 totalGoals: 0 totalShots: 6 shotsOnTarget: 2 goalAssists: 0 foulsCommitted: 15 foulsSuffered: 13 yellowCards: 3 redCards: 1 
+
+(4) D Doneil Henry
+# starts: 6 subIns: 4 totalGoals: 0 totalShots: 2 shotsOnTarget: 1 goalAssists: 0 foulsCommitted: 6 foulsSuffered: 1 yellowCards: 1 redCards: 0 
+
+(3) D Andy Iro
+# starts: 15 subIns: 2 totalGoals: 0 totalShots: 4 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 22 foulsSuffered: 14 yellowCards: 3 redCards: 1 
+
+(5) D Ashtone Morgan
+# starts: 9 subIns: 5 totalGoals: 0 totalShots: 2 shotsOnTarget: 0 goalAssists: 2 foulsCommitted: 10 foulsSuffered: 9 yellowCards: 1 redCards: 0 
+
+(2) D Demitrius Omphroy
+# starts: 0 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 1 yellowCards: 0 redCards: 0 
+
+(55) D Eddy Viator
+# starts: 2 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 4 foulsSuffered: 1 yellowCards: 1 redCards: 0 
+
+(31) D Dicoy Williams
+# starts: 7 subIns: 1 totalGoals: 0 totalShots: 4 shotsOnTarget: 1 goalAssists: 0 foulsCommitted: 5 foulsSuffered: 1 yellowCards: 1 redCards: 0 
+
+(19) D Mikael-David Yourassowsky
+# starts: 13 subIns: 7 totalGoals: 0 totalShots: 19 shotsOnTarget: 12 goalAssists: 1 foulsCommitted: 19 foulsSuffered: 26 yellowCards: 4 redCards: 1 
+
+(8) M Eric Avila
+# starts: 13 subIns: 9 totalGoals: 2 totalShots: 16 shotsOnTarget: 7 goalAssists: 2 foulsCommitted: 12 foulsSuffered: 14 yellowCards: 1 redCards: 0 
+
+(17) M Elbekay Bouchiba
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(77) M Junior Burgos
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(16) M Oscar Cordon
+# starts: 1 subIns: 3 totalGoals: 0 totalShots: 2 shotsOnTarget: 2 goalAssists: 0 foulsCommitted: 5 foulsSuffered: 2 yellowCards: 1 redCards: 0 
+
+(6) M Julián De Guzman
+# starts: 16 subIns: 3 totalGoals: 2 totalShots: 15 shotsOnTarget: 6 goalAssists: 2 foulsCommitted: 33 foulsSuffered: 28 yellowCards: 6 redCards: 0 
+
+(23) M Terry Dunfield
+# starts: 13 subIns: 5 totalGoals: 1 totalShots: 11 shotsOnTarget: 5 goalAssists: 2 foulsCommitted: 8 foulsSuffered: 15 yellowCards: 4 redCards: 0 
+
+(22) M Torsten Frings
+# starts: 13 subIns: 0 totalGoals: 0 totalShots: 6 shotsOnTarget: 5 goalAssists: 1 foulsCommitted: 8 foulsSuffered: 8 yellowCards: 0 redCards: 0 
+
+(26) M Matthew Goldwell
+# starts: 0 subIns: 3 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(21) M Leandre Griffit
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(37) M Nicholas Lindsay
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(13) M Keith Makubuya
+# starts: 0 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(10) M Alan Stevanovic
+# starts: 9 subIns: 3 totalGoals: 0 totalShots: 7 shotsOnTarget: 4 goalAssists: 0 foulsCommitted: 6 foulsSuffered: 9 yellowCards: 1 redCards: 0 
+
+(15) M Matt Stinson
+# starts: 5 subIns: 8 totalGoals: 0 totalShots: 9 shotsOnTarget: 4 goalAssists: 1 foulsCommitted: 10 foulsSuffered: 5 yellowCards: 2 redCards: 0 
+
+(11) M Nathan Sturgis
+# starts: 11 subIns: 3 totalGoals: 0 totalShots: 4 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 3 foulsSuffered: 13 yellowCards: 1 redCards: 0 
+
+(28) M Gianluca Zavarise
+# starts: 4 subIns: 10 totalGoals: 0 totalShots: 5 shotsOnTarget: 1 goalAssists: 0 foulsCommitted: 6 foulsSuffered: 8 yellowCards: 1 redCards: 1 
+
+(9) F Ryan Johnson
+# starts: 12 subIns: 2 totalGoals: 3 totalShots: 39 shotsOnTarget: 18 goalAssists: 4 foulsCommitted: 26 foulsSuffered: 17 yellowCards: 3 redCards: 0 
+
+(14) F Danny Koevermans
+# starts: 9 subIns: 1 totalGoals: 8 totalShots: 27 shotsOnTarget: 18 goalAssists: 2 foulsCommitted: 8 foulsSuffered: 4 yellowCards: 0 redCards: 0 
+
+(70) F Peri Marosevic
+# starts: 4 subIns: 3 totalGoals: 2 totalShots: 10 shotsOnTarget: 6 goalAssists: 0 foulsCommitted: 3 foulsSuffered: 2 yellowCards: 0 redCards: 0 
+
+(33) F Javier Martina
+# starts: 15 subIns: 8 totalGoals: 2 totalShots: 12 shotsOnTarget: 7 goalAssists: 0 foulsCommitted: 9 foulsSuffered: 6 yellowCards: 3 redCards: 0 
+
+(7) F Joao Plata Cotera
+# starts: 21 subIns: 5 totalGoals: 3 totalShots: 42 shotsOnTarget: 25 goalAssists: 5 foulsCommitted: 8 foulsSuffered: 17 yellowCards: 1 redCards: 0 
+
+(18) F Nick Soolsma
+# starts: 18 subIns: 5 totalGoals: 3 totalShots: 26 shotsOnTarget: 19 goalAssists: 4 foulsCommitted: 16 foulsSuffered: 17 yellowCards: 0 redCards: 0 
+

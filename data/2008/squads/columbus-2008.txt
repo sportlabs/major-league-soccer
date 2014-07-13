@@ -1,0 +1,102 @@
+(30) G Andy Gruenebaum
+# starts: 1 subIns: 0 saves: 3 goalsConceded: 3 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 5 losses: 1 draws: 2 
+
+(1) G Will Hesmer
+# starts: 33 subIns: 0 saves: 140 goalsConceded: 5 foulsCommitted: 0 foulsSuffered: 3 yellowCards: 4 redCards: 0 wins: 5 losses: 1 draws: 2 
+
+(18) G Kenny Schoeni
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(17) - Kevin Burns
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(4) D Leonard Griffin
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(2) D Frankie Hejduk
+# starts: 28 subIns: 0 totalGoals: 2 totalShots: 22 shotsOnTarget: 12 goalAssists: 2 foulsCommitted: 27 foulsSuffered: 30 yellowCards: 9 redCards: 1 
+
+(23) D Ezra Hendrickson
+# starts: 7 subIns: 7 totalGoals: 0 totalShots: 7 shotsOnTarget: 3 goalAssists: 0 foulsCommitted: 11 foulsSuffered: 2 yellowCards: 2 redCards: 0 
+
+(6) D Andy Iro
+# starts: 11 subIns: 10 totalGoals: 1 totalShots: 3 shotsOnTarget: 1 goalAssists: 0 foulsCommitted: 12 foulsSuffered: 4 yellowCards: 5 redCards: 0 
+
+(27) D Ryan Junge
+# starts: 3 subIns: 2 totalGoals: 0 totalShots: 1 shotsOnTarget: 1 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(14) D Chad Marshall
+# starts: 33 subIns: 0 totalGoals: 6 totalShots: 16 shotsOnTarget: 7 goalAssists: 2 foulsCommitted: 24 foulsSuffered: 13 yellowCards: 2 redCards: 0 
+
+(8) D Duncan Oughton
+# starts: 1 subIns: 4 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 4 foulsSuffered: 3 yellowCards: 1 redCards: 0 
+
+(4) D Gino Padula
+# starts: 18 subIns: 0 totalGoals: 0 totalShots: 3 shotsOnTarget: 1 goalAssists: 0 foulsCommitted: 13 foulsSuffered: 11 yellowCards: 3 redCards: 0 
+
+(13) D Andrew Peterson
+# starts: 1 subIns: 0 totalGoals: 0 totalShots: 1 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 2 foulsSuffered: 1 yellowCards: 0 redCards: 0 
+
+(24) D Jed Zayner
+# starts: 2 subIns: 4 totalGoals: 0 totalShots: 2 shotsOnTarget: 2 goalAssists: 0 foulsCommitted: 2 foulsSuffered: 1 yellowCards: 0 redCards: 0 
+
+(7) M Guillermo Barros Schelotto
+# starts: 31 subIns: 0 totalGoals: 7 totalShots: 54 shotsOnTarget: 25 goalAssists: 20 foulsCommitted: 21 foulsSuffered: 39 yellowCards: 4 redCards: 0 
+
+(16) M Brian Carroll
+# starts: 34 subIns: 0 totalGoals: 1 totalShots: 14 shotsOnTarget: 5 goalAssists: 1 foulsCommitted: 27 foulsSuffered: 21 yellowCards: 6 redCards: 0 
+
+(17) M Emmanuel Ekpo
+# starts: 7 subIns: 13 totalGoals: 2 totalShots: 10 shotsOnTarget: 9 goalAssists: 1 foulsCommitted: 10 foulsSuffered: 7 yellowCards: 2 redCards: 0 
+
+(26) M Cory Elenio
+# starts: 0 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(12) M Eddie Gaven
+# starts: 26 subIns: 2 totalGoals: 5 totalShots: 28 shotsOnTarget: 11 goalAssists: 3 foulsCommitted: 11 foulsSuffered: 31 yellowCards: 2 redCards: 0 
+
+(6) M Marcos Gonzalez
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(25) M George Josten
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(29) M Ricardo Pierre Louis
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(15) M Stefani Miglioranzi
+# starts: 5 subIns: 5 totalGoals: 0 totalShots: 1 shotsOnTarget: 0 goalAssists: 1 foulsCommitted: 1 foulsSuffered: 1 yellowCards: 1 redCards: 0 
+
+(21) M Ryan Miller
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(22) M Adam Moffat
+# starts: 6 subIns: 1 totalGoals: 2 totalShots: 10 shotsOnTarget: 4 goalAssists: 1 foulsCommitted: 8 foulsSuffered: 6 yellowCards: 2 redCards: 0 
+
+(5) M Danny O'Rourke
+# starts: 32 subIns: 0 totalGoals: 0 totalShots: 2 shotsOnTarget: 1 goalAssists: 3 foulsCommitted: 21 foulsSuffered: 14 yellowCards: 5 redCards: 1 
+
+(3) F Brad Evans
+# starts: 22 subIns: 8 totalGoals: 6 totalShots: 27 shotsOnTarget: 11 goalAssists: 1 foulsCommitted: 9 foulsSuffered: 17 yellowCards: 4 redCards: 1 
+
+(9) F Jason Garey
+# starts: 0 subIns: 10 totalGoals: 3 totalShots: 6 shotsOnTarget: 4 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 1 redCards: 0 
+
+(20) F Nicolas Hernandez
+# starts: 1 subIns: 4 totalGoals: 0 totalShots: 2 shotsOnTarget: 1 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 1 yellowCards: 0 redCards: 0 
+
+(10) F Alejandro Moreno
+# starts: 31 subIns: 0 totalGoals: 10 totalShots: 44 shotsOnTarget: 22 goalAssists: 5 foulsCommitted: 29 foulsSuffered: 49 yellowCards: 1 redCards: 0 
+
+(19) F Robbie Rogers
+# starts: 30 subIns: 1 totalGoals: 8 totalShots: 58 shotsOnTarget: 30 goalAssists: 2 foulsCommitted: 29 foulsSuffered: 59 yellowCards: 4 redCards: 0 
+
+(32) F Steven Lenhart
+# starts: 3 subIns: 9 totalGoals: 5 totalShots: 5 shotsOnTarget: 3 goalAssists: 0 foulsCommitted: 4 foulsSuffered: 3 yellowCards: 0 redCards: 1 
+
+(11) F Pat Noonan
+# starts: 6 subIns: 5 totalGoals: 1 totalShots: 3 shotsOnTarget: 1 goalAssists: 1 foulsCommitted: 1 foulsSuffered: 3 yellowCards: 1 redCards: 0 
+
+(11) F Guilherme So
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+

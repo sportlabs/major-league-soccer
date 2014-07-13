@@ -1,0 +1,81 @@
+(31) G Karry Harrison
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(24) G Thorne Holder
+# starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(18) G Zac MacMath
+# starts: 7 subIns: 1 saves: 17 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 1 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(1) G Faryd Mondragón
+# starts: 30 subIns: 0 saves: 58 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 2 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+
+(4) D Danny Califf
+# starts: 35 subIns: 0 totalGoals: 1 totalShots: 6 shotsOnTarget: 3 goalAssists: 0 foulsCommitted: 30 foulsSuffered: 24 yellowCards: 4 redCards: 0 
+
+(3) D Juan Diego González
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(2) D Joe Tait
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(5) D Carlos Valdés
+# starts: 34 subIns: 0 totalGoals: 1 totalShots: 19 shotsOnTarget: 6 goalAssists: 0 foulsCommitted: 40 foulsSuffered: 33 yellowCards: 9 redCards: 0 
+
+(25) D Sheanon Williams
+# starts: 34 subIns: 0 totalGoals: 1 totalShots: 18 shotsOnTarget: 7 goalAssists: 3 foulsCommitted: 35 foulsSuffered: 42 yellowCards: 4 redCards: 1 
+
+(7) M Brian Carroll
+# starts: 32 subIns: 0 totalGoals: 1 totalShots: 19 shotsOnTarget: 10 goalAssists: 0 foulsCommitted: 40 foulsSuffered: 16 yellowCards: 6 redCards: 0 
+
+(17) M Keon Daniel
+# starts: 9 subIns: 9 totalGoals: 1 totalShots: 4 shotsOnTarget: 2 goalAssists: 2 foulsCommitted: 7 foulsSuffered: 7 yellowCards: 1 redCards: 0 
+
+(21) M Michael Farfan
+# starts: 15 subIns: 8 totalGoals: 2 totalShots: 22 shotsOnTarget: 10 goalAssists: 4 foulsCommitted: 17 foulsSuffered: 23 yellowCards: 1 redCards: 0 
+
+(15) M Gabriel Farfan
+# starts: 20 subIns: 4 totalGoals: 1 totalShots: 1 shotsOnTarget: 1 goalAssists: 1 foulsCommitted: 24 foulsSuffered: 25 yellowCards: 3 redCards: 0 
+
+(26) M Morgan Langley
+# starts: 0 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(22) M Justin Mapp
+# starts: 25 subIns: 6 totalGoals: 3 totalShots: 24 shotsOnTarget: 17 goalAssists: 3 foulsCommitted: 19 foulsSuffered: 27 yellowCards: 1 redCards: 0 
+
+(6) M Stefani Miglioranzi
+# starts: 12 subIns: 5 totalGoals: 0 totalShots: 5 shotsOnTarget: 2 goalAssists: 0 foulsCommitted: 15 foulsSuffered: 8 yellowCards: 2 redCards: 0 
+
+(13) M Kyle Nakazawa
+# starts: 14 subIns: 7 totalGoals: 1 totalShots: 11 shotsOnTarget: 6 goalAssists: 2 foulsCommitted: 22 foulsSuffered: 17 yellowCards: 1 redCards: 0 
+
+(14) M Amobi Okugo
+# starts: 10 subIns: 5 totalGoals: 0 totalShots: 10 shotsOnTarget: 5 goalAssists: 0 foulsCommitted: 12 foulsSuffered: 5 yellowCards: 2 redCards: 0 
+
+(27) M Zach Pfeffer
+# starts: 2 subIns: 1 totalGoals: 0 totalShots: 2 shotsOnTarget: 2 goalAssists: 0 foulsCommitted: 2 foulsSuffered: 1 yellowCards: 0 redCards: 0 
+
+(23) M Ryan Richter
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(8) M Roger Torres
+# starts: 9 subIns: 18 totalGoals: 3 totalShots: 24 shotsOnTarget: 9 goalAssists: 1 foulsCommitted: 15 foulsSuffered: 17 yellowCards: 1 redCards: 0 
+
+(11) F Freddy Adu
+# starts: 6 subIns: 7 totalGoals: 2 totalShots: 14 shotsOnTarget: 9 goalAssists: 0 foulsCommitted: 6 foulsSuffered: 9 yellowCards: 1 redCards: 0 
+
+(--) F Levi Houapeu
+# starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+
+(9) F Sebastien Le Toux
+# starts: 36 subIns: 0 totalGoals: 12 totalShots: 75 shotsOnTarget: 50 goalAssists: 7 foulsCommitted: 18 foulsSuffered: 32 yellowCards: 0 redCards: 0 
+
+(19) F Jack McInerney
+# starts: 6 subIns: 15 totalGoals: 1 totalShots: 13 shotsOnTarget: 5 goalAssists: 0 foulsCommitted: 5 foulsSuffered: 6 yellowCards: 1 redCards: 1 
+
+(10) F Danny Mwanga
+# starts: 15 subIns: 15 totalGoals: 5 totalShots: 40 shotsOnTarget: 25 goalAssists: 4 foulsCommitted: 23 foulsSuffered: 21 yellowCards: 3 redCards: 0 
+
+(16) F Veljko Paunovic
+# starts: 17 subIns: 1 totalGoals: 3 totalShots: 29 shotsOnTarget: 17 goalAssists: 1 foulsCommitted: 24 foulsSuffered: 16 yellowCards: 1 redCards: 0 
+
