@@ -121,7 +121,7 @@ class ESPNScraper
       name = ""
       number = -1
       pos = "NA"
-      stats = "# "
+      stats = "$$ "
 
       player.children.each do |attr|
         if (attr.attributes["class"])

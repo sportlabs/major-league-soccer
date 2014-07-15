@@ -38,6 +38,6 @@ ruby mls_scraper.rb -y 2005 -o data/2005/mls.txt
 
 ## Sources
 
-http://www.espnfc.com
-http://data2.7m.cn
+* http://www.espnfc.com
+* http://data2.7m.cn
 

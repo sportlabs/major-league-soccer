@@ -79,6 +79,19 @@ task :clean_match_data do
   end
 end
 
+desc "Remove existing squad data"
+task :clean_squad_data do
+  p "Are you sure you want remove all squad data (Y/N)? "
+  response  = $stdin.gets.strip
+
+  if (response =~ /y/i)
+    years.each do |year|
+      FileUtils.rm_rf("data/#{year}/squads")
+    end
+  end
+end
+
+
 desc "Generate all MLS data"
 task :all => [:gen_match_data, :migrate_yml, :gen_squads] do
   p "Generated all data!"
