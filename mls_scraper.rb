@@ -318,6 +318,10 @@ def parse_options
       options[:roster] = true
     end
 
+    opt.on('-s', '--stats', 'Enable stats output') do
+      options[:stats] = true
+    end
+
     opt.on('-a', '--aux_file file1,file2,file3,...', Array, 'Helper files for formatting.  e.g. For roster, these can be team .yml files') do |aux|
       if (aux.kind_of?(Array))
         options[:aux] = aux

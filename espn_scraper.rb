@@ -10,6 +10,7 @@ class ESPNScraper
     @logger.level = (options[:verbose]) ? options[:verbose] : Logger::Info
     @roster_file = (options[:file]) ? options[:file] : "roster"
     @team_files = (options[:aux]) ? options[:aux] : []
+    @print_stats = (options[:stats]) ? options[:stats] : false
     @options = options
 
     # Build up an array 
@@ -123,6 +124,11 @@ class ESPNScraper
       pos = "NA"
       stats = "$$ "
 
+      # Comment out stats for parsers that don't support it
+      if (not @print_stats)
+        stats = "##{stats}"
+      end
+
       player.children.each do |attr|
         if (attr.attributes["class"])
           case(attr.attributes["class"].value)
@@ -145,7 +151,7 @@ class ESPNScraper
                 val = "0"
               end
 
-              stats += stat + ": " + val + " "
+              stats += stat + ": " + val + ", "
               @logger.debug("[generate_fixture] Stat: " + attr.attributes["class"].value.to_s + " Val: " + attr.content.strip)
           end
         end # if

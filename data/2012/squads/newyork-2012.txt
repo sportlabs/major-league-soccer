@@ -1,81 +1,81 @@
 (88) G Bill Gaudette
-$$ starts: 15 subIns: 0 saves: 39 goalsConceded: 20 foulsCommitted: 1 foulsSuffered: 5 yellowCards: 2 redCards: 0 wins: 0 losses: 0 draws: 0 
+#$$ starts: 15, subIns: 0, saves: 39, goalsConceded: 20, foulsCommitted: 1, foulsSuffered: 5, yellowCards: 2, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (18) G Ryan Meara
-$$ starts: 18 subIns: 0 saves: 61 goalsConceded: 27 foulsCommitted: 0 foulsSuffered: 3 yellowCards: 1 redCards: 0 wins: 0 losses: 0 draws: 0 
+#$$ starts: 18, subIns: 0, saves: 61, goalsConceded: 27, foulsCommitted: 0, foulsSuffered: 3, yellowCards: 1, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (31) G Luis Robles
-$$ starts: 6 subIns: 0 saves: 16 goalsConceded: 5 foulsCommitted: 0 foulsSuffered: 1 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+#$$ starts: 6, subIns: 0, saves: 16, goalsConceded: 5, foulsCommitted: 0, foulsSuffered: 1, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (24) G Jeremy Vuolo
-$$ starts: 0 subIns: 0 saves: 0 goalsConceded: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 wins: 0 losses: 0 draws: 0 
+#$$ starts: 0, subIns: 0, saves: 0, goalsConceded: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, wins: 0, losses: 0, draws: 0, 
 
 (12) D Jonathan Borrajo
-$$ starts: 0 subIns: 1 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+#$$ starts: 0, subIns: 1, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (2) D Wilman Conde
-$$ starts: 16 subIns: 1 totalGoals: 1 totalShots: 7 shotsOnTarget: 1 goalAssists: 1 foulsCommitted: 27 foulsSuffered: 6 yellowCards: 3 redCards: 0 
+#$$ starts: 16, subIns: 1, totalGoals: 1, totalShots: 7, shotsOnTarget: 1, goalAssists: 1, foulsCommitted: 27, foulsSuffered: 6, yellowCards: 3, redCards: 0, 
 
 (13) D Leite Digao
-$$ starts: 0 subIns: 1 totalGoals: 0 totalShots: 1 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+#$$ starts: 0, subIns: 1, totalGoals: 0, totalShots: 1, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (5) D Markus Holgersson
-$$ starts: 33 subIns: 0 totalGoals: 3 totalShots: 13 shotsOnTarget: 6 goalAssists: 0 foulsCommitted: 24 foulsSuffered: 16 yellowCards: 2 redCards: 0 
+#$$ starts: 33, subIns: 0, totalGoals: 3, totalShots: 13, shotsOnTarget: 6, goalAssists: 0, foulsCommitted: 24, foulsSuffered: 16, yellowCards: 2, redCards: 0, 
 
 (22) D Stephen Keel
-$$ starts: 6 subIns: 3 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 3 foulsSuffered: 2 yellowCards: 1 redCards: 0 
+#$$ starts: 6, subIns: 3, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 2, yellowCards: 1, redCards: 0, 
 
 (16) D Connor Lade
-$$ starts: 24 subIns: 4 totalGoals: 0 totalShots: 8 shotsOnTarget: 2 goalAssists: 2 foulsCommitted: 32 foulsSuffered: 22 yellowCards: 4 redCards: 1 
+#$$ starts: 24, subIns: 4, totalGoals: 0, totalShots: 8, shotsOnTarget: 2, goalAssists: 2, foulsCommitted: 32, foulsSuffered: 22, yellowCards: 4, redCards: 1, 
 
 (7) D Roy Miller
-$$ starts: 20 subIns: 6 totalGoals: 0 totalShots: 7 shotsOnTarget: 0 goalAssists: 2 foulsCommitted: 14 foulsSuffered: 14 yellowCards: 2 redCards: 0 
+#$$ starts: 20, subIns: 6, totalGoals: 0, totalShots: 7, shotsOnTarget: 0, goalAssists: 2, foulsCommitted: 14, foulsSuffered: 14, yellowCards: 2, redCards: 0, 
 
 (4) D Rafael Márquez
-$$ starts: 15 subIns: 2 totalGoals: 0 totalShots: 7 shotsOnTarget: 1 goalAssists: 3 foulsCommitted: 17 foulsSuffered: 19 yellowCards: 3 redCards: 1 
+#$$ starts: 15, subIns: 2, totalGoals: 0, totalShots: 7, shotsOnTarget: 1, goalAssists: 3, foulsCommitted: 17, foulsSuffered: 19, yellowCards: 3, redCards: 1, 
 
 (3) D Heath Pearce
-$$ starts: 30 subIns: 0 totalGoals: 2 totalShots: 8 shotsOnTarget: 5 goalAssists: 0 foulsCommitted: 11 foulsSuffered: 19 yellowCards: 2 redCards: 0 
+#$$ starts: 30, subIns: 0, totalGoals: 2, totalShots: 8, shotsOnTarget: 5, goalAssists: 0, foulsCommitted: 11, foulsSuffered: 19, yellowCards: 2, redCards: 0, 
 
 (15) D Tyler Ruthven
-$$ starts: 4 subIns: 1 totalGoals: 0 totalShots: 2 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 3 foulsSuffered: 1 yellowCards: 1 redCards: 0 
+#$$ starts: 4, subIns: 1, totalGoals: 0, totalShots: 2, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 3, foulsSuffered: 1, yellowCards: 1, redCards: 0, 
 
 (25) M Brandon Barklage
-$$ starts: 16 subIns: 3 totalGoals: 2 totalShots: 9 shotsOnTarget: 2 goalAssists: 3 foulsCommitted: 20 foulsSuffered: 7 yellowCards: 1 redCards: 0 
+#$$ starts: 16, subIns: 3, totalGoals: 2, totalShots: 9, shotsOnTarget: 2, goalAssists: 3, foulsCommitted: 20, foulsSuffered: 7, yellowCards: 1, redCards: 0, 
 
 (17) M Tim Cahill
-$$ starts: 14 subIns: 0 totalGoals: 1 totalShots: 24 shotsOnTarget: 8 goalAssists: 2 foulsCommitted: 29 foulsSuffered: 23 yellowCards: 2 redCards: 0 
+#$$ starts: 14, subIns: 0, totalGoals: 1, totalShots: 24, shotsOnTarget: 8, goalAssists: 2, foulsCommitted: 29, foulsSuffered: 23, yellowCards: 2, redCards: 0, 
 
 (20) M Joel Lindpere
-$$ starts: 28 subIns: 8 totalGoals: 5 totalShots: 32 shotsOnTarget: 13 goalAssists: 4 foulsCommitted: 33 foulsSuffered: 35 yellowCards: 5 redCards: 0 
+#$$ starts: 28, subIns: 8, totalGoals: 5, totalShots: 32, shotsOnTarget: 13, goalAssists: 4, foulsCommitted: 33, foulsSuffered: 35, yellowCards: 5, redCards: 0, 
 
 (11) M Dax McCarty
-$$ starts: 35 subIns: 0 totalGoals: 3 totalShots: 45 shotsOnTarget: 12 goalAssists: 2 foulsCommitted: 40 foulsSuffered: 60 yellowCards: 6 redCards: 0 
+#$$ starts: 35, subIns: 0, totalGoals: 3, totalShots: 45, shotsOnTarget: 12, goalAssists: 2, foulsCommitted: 40, foulsSuffered: 60, yellowCards: 6, redCards: 0, 
 
 (10) M Lloyd Sam
-$$ starts: 2 subIns: 3 totalGoals: 0 totalShots: 5 shotsOnTarget: 1 goalAssists: 0 foulsCommitted: 5 foulsSuffered: 3 yellowCards: 1 redCards: 0 
+#$$ starts: 2, subIns: 3, totalGoals: 0, totalShots: 5, shotsOnTarget: 1, goalAssists: 0, foulsCommitted: 5, foulsSuffered: 3, yellowCards: 1, redCards: 0, 
 
 (8) M Jan Gunnar Solli
-$$ starts: 21 subIns: 3 totalGoals: 3 totalShots: 15 shotsOnTarget: 9 goalAssists: 3 foulsCommitted: 17 foulsSuffered: 10 yellowCards: 2 redCards: 0 
+#$$ starts: 21, subIns: 3, totalGoals: 3, totalShots: 15, shotsOnTarget: 9, goalAssists: 3, foulsCommitted: 17, foulsSuffered: 10, yellowCards: 2, redCards: 0, 
 
 (6) M Teemu Tainio
-$$ starts: 11 subIns: 5 totalGoals: 0 totalShots: 4 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 16 foulsSuffered: 10 yellowCards: 2 redCards: 0 
+#$$ starts: 11, subIns: 5, totalGoals: 0, totalShots: 4, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 16, foulsSuffered: 10, yellowCards: 2, redCards: 0, 
 
 (99) F Jose Angulo
-$$ starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+#$$ starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (27) F Jhonny Arteaga
-$$ starts: 0 subIns: 5 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 1 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+#$$ starts: 0, subIns: 5, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 1, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (33) F Kenny Cooper
-$$ starts: 27 subIns: 8 totalGoals: 18 totalShots: 86 shotsOnTarget: 47 goalAssists: 2 foulsCommitted: 37 foulsSuffered: 31 yellowCards: 3 redCards: 0 
+#$$ starts: 27, subIns: 8, totalGoals: 18, totalShots: 86, shotsOnTarget: 47, goalAssists: 2, foulsCommitted: 37, foulsSuffered: 31, yellowCards: 3, redCards: 0, 
 
 (14) F Thierry Henry
-$$ starts: 27 subIns: 1 totalGoals: 15 totalShots: 99 shotsOnTarget: 39 goalAssists: 12 foulsCommitted: 20 foulsSuffered: 28 yellowCards: 5 redCards: 0 
+#$$ starts: 27, subIns: 1, totalGoals: 15, totalShots: 99, shotsOnTarget: 39, goalAssists: 12, foulsCommitted: 20, foulsSuffered: 28, yellowCards: 5, redCards: 0, 
 
 (21) F Corey Hertzog
-$$ starts: 0 subIns: 0 totalGoals: 0 totalShots: 0 shotsOnTarget: 0 goalAssists: 0 foulsCommitted: 0 foulsSuffered: 0 yellowCards: 0 redCards: 0 
+#$$ starts: 0, subIns: 0, totalGoals: 0, totalShots: 0, shotsOnTarget: 0, goalAssists: 0, foulsCommitted: 0, foulsSuffered: 0, yellowCards: 0, redCards: 0, 
 
 (9) F Sebastien Le Toux
-$$ starts: 28 subIns: 6 totalGoals: 5 totalShots: 35 shotsOnTarget: 16 goalAssists: 2 foulsCommitted: 18 foulsSuffered: 25 yellowCards: 0 redCards: 0 
+#$$ starts: 28, subIns: 6, totalGoals: 5, totalShots: 35, shotsOnTarget: 16, goalAssists: 2, foulsCommitted: 18, foulsSuffered: 25, yellowCards: 0, redCards: 0, 
 
