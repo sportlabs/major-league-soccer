@@ -2,6 +2,7 @@
 
 years = (2005..2014)
 debug = ENV['debug'] ? ENV['debug'] : false
+stat = ENV['stat'] ? ENV['stat'] : false
 
 
 years.each do |year|
@@ -9,7 +10,7 @@ years.each do |year|
 
   file "data/#{year}/squads" => "data/#{year}" do
     sh "mkdir -p data/#{year}/squads/"
-    sh "ruby mls_scraper.rb -r -y #{year} -o data/#{year}/squads/ -a teams_us.txt,teams_ca.txt " + (debug ? "-v" : "")
+    sh "ruby mls_scraper.rb -r -y #{year} -o data/#{year}/squads/ -a teams_us.txt,teams_ca.txt " + (stat ? "-s " : "" ) + (debug ? "-v" : "")
   end
 
   file "data/#{year}/mls.txt" => "data/#{year}" do

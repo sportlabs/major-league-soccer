@@ -135,9 +135,9 @@ class ESPNScraper
             when "pla"
               name = attr.content.strip
               @logger.debug("[generate_fixture] Parsing Name: " + name.to_s)
-            when "pos"
-              pos = attr.content.strip
-              @logger.debug("[generate_fixture] Parsing Position: " + pos.to_s)
+            #when "pos"
+              #pos = attr.content.strip
+              #@logger.debug("[generate_fixture] Parsing Position: " + pos.to_s)
             when "no"
               number = attr.content.strip
               @logger.debug("[generate_fixture] Parsing Number: " + number.to_s)
@@ -147,7 +147,8 @@ class ESPNScraper
               val = attr.content.strip
 
               # Sanitize unknown stat values -- assume a decimal number
-              if (val =~ /\D/)
+              #if (val =~ /\D/)
+              if (val =~ /--/)
                 val = "0"
               end
 
@@ -159,8 +160,8 @@ class ESPNScraper
 
       # If we parsed out some valid values, create an entry
       if (name != "" and number != -1)
-        @logger.debug("[generate_fixture] Adding Player: (#{number}) #{pos} #{name}")
-        ret += "(#{number}) #{pos} #{name}\n"
+        @logger.debug("[generate_fixture] Adding Player: (#{number}) #{name}")
+        ret += "(#{number}) #{name}\n"
         ret += stats + "\n\n"
       end
     end # roster.each
