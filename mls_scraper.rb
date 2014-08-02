@@ -3,11 +3,15 @@ require 'open-uri'
 require 'logger'
 require 'net/http'
 require 'optparse'
+require 'set'
+require 'yaml'
+require_relative 'lib/parse'
 require_relative 'espn_scraper'
 
 # A command-line utility to parse MLS data into
 # openfootball fixtures
 class MLSScraper
+  include Parse
   attr_accessor :arrays
 
   # Initialize logging
@@ -16,14 +20,19 @@ class MLSScraper
     @logger = Logger.new(STDOUT)
     @logger.level = (options[:verbose] != nil) ? options[:verbose] : Logger::WARN
     @logger.debug(options.to_s)
+    @team_files = (options[:aux]) ? options[:aux] : []
 
     # Do this in ESPN Scraper instead
     #@gen_roster = (options[:roster] != nil) ? options[:roster] : true
     @gen_roster = false
     @options = options
+    @team_set = Set.new
 
     # To help keep track of week numbering between rounds
     @week_offset = 0
+
+    # Build up an array 
+    lookup_team_keys(@team_files)
   end
 
   # Slightly improved JS array parsing
@@ -164,6 +173,7 @@ class MLSScraper
     end
 
     # Generate rosters
+    # Unimplemented
     if (@gen_roster)
       if rounds.size > 0
         print_rosters(teamA[0], teamA_ids[0])
@@ -178,16 +188,31 @@ class MLSScraper
     #   into rounds
     if (rounds.size > 0)
       rounds.each_with_index do |round, i|
+        sanitize_team_names!(teamA[i])
+        sanitize_team_names!(teamB[i])
         ret += print_fixture(rounds[i],times[i],teamA[i],teamB[i],scores[i]) + "\n"
+        add_to_team_list(teamA[i] + teamB[i])
       end
     else
       # Otherwise, assume current year data
+      sanitize_team_names!(teamA)
+      sanitize_team_names!(teamB)
       ret = print_fixture("Qualifying",times,teamA,teamB,scores)
+      add_to_team_list(teamA + teamB)
     end
 
     # Reset week count
     @week_offset = 0
     return ret
+  end
+
+  # Remove any funny characters from team names
+  # i.e. "(N)"
+  # Modifies names in place
+  def sanitize_team_names!(names)
+    names.each do |name|
+      name.sub!("(N)", "")
+    end
   end
 
   # Query for each team's roster
@@ -257,8 +282,8 @@ class MLSScraper
     times.each_with_index do |t, i|
       # convert time to proper format
       date = DateTime.strptime(t, "%Y,%m,%d,%H,%M,%S")
-      # Subtract 13 hours to get into EST time
-      time = date.to_time - (60*13*60)
+      # Subtract 3 hours to get into EST time
+      time = date.to_time - (60*3*60)
       date_s = time.strftime("%a %b/%-d %H:%M")
       date_week = time.strftime("%U").to_i
 
@@ -287,6 +312,27 @@ class MLSScraper
     return ret_s
   end
 
+  # Maintain a unique list of teams as we encounter them in games
+  def add_to_team_list(teams)
+    team_keys = []
+    teams.each do |team|
+      team_keys << find_key(team)
+    end
+
+    @team_set.merge(team_keys.to_set)
+  end
+
+  # Return a yml-formatted string of all the teams found from previous parsing
+  def get_team_data
+    team_yaml = {}
+    year = @options[:year]
+    team_yaml["league"] = "mls"
+    team_yaml["start_at"] = "#{year}-01-01"
+    team_yaml["fixtures"] = ["mls"]
+    team_yaml["teams"] = @team_set.to_a
+
+    return team_yaml.to_yaml
+  end
 
 end
 
@@ -349,10 +395,13 @@ def main
     # Current year is a different API
     if (options[:year].to_i == Date.today.year)
       fixture_data = m.scrape
+      team_data = m.get_team_data
     else
       fixture_data = m.get_historical_game_data(options[:year])
+      team_data = m.get_team_data
     end
-    File.open(options[:file], 'w') {|file| file.write(fixture_data)}
+    File.open("#{options[:file]}.txt", 'w') {|txt| txt.write(fixture_data)}
+    File.open("#{options[:file]}.yml", 'w') {|yml| yml.write(team_data)}
   end # not roster
 end
 

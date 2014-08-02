@@ -14,42 +14,11 @@ years.each do |year|
   end
 
   file "data/#{year}/mls.txt" => "data/#{year}" do
-    sh "ruby mls_scraper.rb -y #{year} -o data/#{year}/mls.txt " + (debug ? "-v" : "")
+    sh "ruby mls_scraper.rb -y #{year} -o data/#{year}/mls " + (debug ? "-v" : "")
   end
 
   file "data/#{year}/mls.yml" => "data/#{year}" do
-    yml = "
-# MLS Season #{year}
-
-league: mls
-season: #{year}
-start_at: #{year}-01-01
-
-fixtures:
-- mls
-
-teams:
-- galaxy
-- seattle
-- houston
-- saltlake
-- sanjose
-- kansascity
-- colorado
-- dallas
-- chivasusa
-- chicago
-- columbus
-- dcunited
-- newengland
-- newyork
-- philadelphia
-- portland
-- toronto
-- vancouver
-- montreal
-"
-    File.open("data/#{year}/mls.yml", 'w') {|file| file.write(yml)}
+    sh "ruby mls_scraper.rb -y #{year} -o data/#{year}/mls -a teams_us.txt,teams_ca.txt " + (debug ? "-v" : "")
   end
 end
 
@@ -97,3 +66,6 @@ desc "Generate all MLS data"
 task :all => [:gen_match_data, :migrate_yml, :gen_squads] do
   p "Generated all data!"
 end
+
+#desc "Build mls.db"
+
