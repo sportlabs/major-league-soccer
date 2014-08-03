@@ -4,17 +4,4 @@ start_at: '2008-01-01'
 fixtures:
 - mls
 teams:
-- columbus
-- saltlake
-- newengland
-- kcwizards
-- colorado
-- dallas
-- chicago
-- galaxy
-- newyork
-- dcunited
-- chivasusa
-- houston
-- sanjose
-- toronto
+- none

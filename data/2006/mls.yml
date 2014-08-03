@@ -4,15 +4,4 @@ start_at: '2006-01-01'
 fixtures:
 - mls
 teams:
-- dallas
-- kcwizards
-- galaxy
-- dcunited
-- chivasusa
-- houston
-- nymetro
-- colorado
-- columbus
-- saltlake
-- nerev
-- chicago
+- none

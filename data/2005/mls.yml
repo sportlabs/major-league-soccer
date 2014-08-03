@@ -4,15 +4,4 @@ start_at: '2005-01-01'
 fixtures:
 - mls
 teams:
-- chivasusa
-- nymetro
-- columbus
-- kcwizards
-- dallas
-- sanjose
-- dcunited
-- nerev
-- colorado
-- galaxy
-- saltlake
-- chicago
+- none

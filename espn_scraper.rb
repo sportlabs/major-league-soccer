@@ -23,7 +23,16 @@ class ESPNScraper
   def scrape
     # Find the URL for each team
     #details["name"] = doc.search('//meta[@itemprop="name"]').first['content']
-    doc = Nokogiri::HTML(open("http://www.espnfc.com/major-league-soccer/19/statistics/scorers"))
+    start_page = "http://www.espnfc.com/major-league-soccer/19/statistics/scorers"
+
+    # Try to restart if something went wrong
+    begin
+      doc = Nokogiri::HTML(open(start_page))
+    rescue OpenURI::HTTPError
+      @logger.warn("Failed to open #{start_page} - trying again...")
+      doc = Nokogiri::HTML(open("http://www.espnfc.com/major-league-soccer/19/statistics/scorers"))
+    end
+
     clubs_l = doc.css("li.sublist ul li a")
     year = (@options[:year]) ? @options[:year] : 2014
 
@@ -55,7 +64,12 @@ class ESPNScraper
     roster = []
 
     # Check to see if data is available for this year
-    doc = Nokogiri::HTML(open(url))
+    begin
+      doc = Nokogiri::HTML(open(url))
+    rescue OpenURI::HTTPError
+      @logger.warn("Failed to open #{url} - trying again...")
+      doc = Nokogiri::HTML(open(url))
+    end
 
     # Goalkeepers are in their own table
     data = doc.css("div.squad-data-table div.responsive-table div table tbody tr")
