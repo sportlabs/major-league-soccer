@@ -4,4 +4,18 @@ start_at: '2009-01-01'
 fixtures:
 - mls
 teams:
-- none
+- seattle
+- houston
+- kcwizards
+- dallas
+- sanjose
+- chivasusa
+- galaxy
+- columbus
+- dcunited
+- newyork
+- colorado
+- saltlake
+- toronto
+- newengland
+- chicago

@@ -4,4 +4,22 @@ start_at: '2012-01-01'
 fixtures:
 - mls
 teams:
-- none
+- colorado
+- vancouver
+- dcunited
+- sanjose
+- galaxy
+- dallas
+- chivasusa
+- portland
+- montreal
+- kansascity
+- seattle
+- saltlake
+- philadelphia
+- toronto
+- newengland
+- columbus
+- chicago
+- newyork
+- houston

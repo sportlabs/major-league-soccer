@@ -4,4 +4,21 @@ start_at: '2011-01-01'
 fixtures:
 - mls
 teams:
-- none
+- seattle
+- vancouver
+- dcunited
+- newyork
+- dallas
+- houston
+- colorado
+- chivasusa
+- sanjose
+- galaxy
+- toronto
+- columbus
+- chicago
+- philadelphia
+- newengland
+- saltlake
+- portland
+- kansascity

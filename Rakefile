@@ -10,11 +10,11 @@ years.each do |year|
 
   file "data/#{year}/squads" => "data/#{year}" do
     sh "mkdir -p data/#{year}/squads/"
-    sh "ruby mls_scraper.rb -r -y #{year} -o data/#{year}/squads/ -a teams_us.txt,teams_ca.txt " + (stat ? "-s " : "" ) + (debug ? "-v" : "")
+    sh "ruby mls_scraper.rb -r -y #{year} -o data/#{year}/squads/ -a teams_us.txt,teams_ca.txt,data/#{year}/mls.yml " + (stat ? "-s " : "" ) + (debug ? "-v" : "")
   end
 
   file "data/#{year}/mls.txt" => "data/#{year}" do
-    sh "ruby mls_scraper.rb -y #{year} -o data/#{year}/mls " + (debug ? "-v" : "")
+    sh "ruby mls_scraper.rb -y #{year} -o data/#{year}/mls -a teams_us.txt,teams_ca.txt " + (debug ? "-v" : "")
   end
 
   file "data/#{year}/mls.yml" => "data/#{year}" do

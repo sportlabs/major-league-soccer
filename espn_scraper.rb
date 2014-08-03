@@ -23,7 +23,9 @@ class ESPNScraper
   def scrape
     # Find the URL for each team
     #details["name"] = doc.search('//meta[@itemprop="name"]').first['content']
-    start_page = "http://www.espnfc.com/major-league-soccer/19/statistics/scorers"
+
+    year = (@options[:year]) ? @options[:year] : 2014
+    start_page = "http://www.espnfc.com/major-league-soccer/19/statistics/scorers?season=#{year}"
 
     # Try to restart if something went wrong
     begin
@@ -34,7 +36,6 @@ class ESPNScraper
     end
 
     clubs_l = doc.css("li.sublist ul li a")
-    year = (@options[:year]) ? @options[:year] : 2014
 
     clubs_l.each do | club |
       club_name = club.content.to_s.strip
@@ -54,7 +55,7 @@ class ESPNScraper
         fixture_s = generate_fixture(roster)
       end
 
-      club_key = find_key(club_name)
+      club_key = find_key(club_name, year.to_i)
       File.open("#{@roster_file}#{club_key}-#{year.to_s}.txt", 'w') {|file| file.write(fixture_s)}
     end
   end

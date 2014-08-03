@@ -30,6 +30,7 @@ class MLSScraper
 
     # To help keep track of week numbering between rounds
     @week_offset = 0
+    @year = options[:year]
 
     # Build up an array 
     lookup_team_keys(@team_files)
@@ -316,7 +317,7 @@ class MLSScraper
   def add_to_team_list(teams)
     team_keys = []
     teams.each do |team|
-      team_keys << find_key(team)
+      team_keys << find_key(team, @year.to_i)
     end
 
     @team_set.merge(team_keys.to_set)
