@@ -328,6 +328,7 @@ class MLSScraper
     team_yaml = {}
     year = @options[:year]
     team_yaml["league"] = "mls"
+    team_yaml["season"] = "#{year}"
     team_yaml["start_at"] = "#{year}-01-01"
     team_yaml["fixtures"] = ["mls"]
     team_yaml["teams"] = @team_set.to_a

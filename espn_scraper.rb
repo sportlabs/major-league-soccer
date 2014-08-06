@@ -55,6 +55,13 @@ class ESPNScraper
         fixture_s = generate_fixture(roster)
       end
 
+      # Hack - ESPN doesn't know about New York Metro Stars
+      # Change club_name to "New York" and strip out the team name
+      # mls.yml will have the right club listed
+      if (club_name =~ /New York/)
+        club_name = "New York"
+      end
+
       club_key = find_key(club_name, year.to_i)
       File.open("#{@roster_file}#{club_key}-#{year.to_s}.txt", 'w') {|file| file.write(fixture_s)}
     end

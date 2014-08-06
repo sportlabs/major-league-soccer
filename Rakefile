@@ -67,5 +67,8 @@ task :all => [:gen_match_data, :migrate_yml, :gen_squads] do
   p "Generated all data!"
 end
 
-#desc "Build mls.db"
+desc "Run unit tests"
+task :test => [:all] do
+  
+end
 

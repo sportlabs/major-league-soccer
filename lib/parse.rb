@@ -40,13 +40,15 @@ module Parse
 
     # The match source doesn't have the right name for New York in
     # 2005, 2006.  FIXME... find a better way to do this
-    if (search_name =~ /New York/)
-      if (year >= 2001 && year <= 2005)
-        return "nymetro"
-      elsif (year > 2005)
-        return "newyork"
-      end
-    end
+#    if (search_name =~ /New York/)
+#      if (year >= 2001 and year <= 2005)
+#        @logger.debug("[find_key] Found nymetro for #{name}, year: #{year} @year: #{@year}")
+#        return "nymetro"
+#      elsif (year > 2005)
+#        @logger.debug("[find_key] Found newyork for #{name}")
+#        return "newyork"
+#      end
+#    end
 
     @team_keys.each do |key, line|
       if (line =~ /#{name}/i)
