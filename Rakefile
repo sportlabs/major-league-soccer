@@ -69,6 +69,6 @@ end
 
 desc "Run unit tests"
 task :test => [:all] do
-  
+  p "Testing is unimplemented" 
 end
 
